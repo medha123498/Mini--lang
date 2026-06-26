@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#eee;
+}
+
+
+.box{
+
+    background:white;
+    width:500px;
+    margin:50px auto;
+    padding:30px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+
+}
+
+
+textarea{
+
+    width:90%;
+    height:120px;
+    padding:10px;
+    font-size:16px;
+
+}
+
+
+button{
+
+    padding:10px 30px;
+    background:black;
+    color:white;
+    border:none;
+    border-radius:5px;
+
+}
+
+
+#result{
+
+    margin-top:20px;
+    color:green;
+
+}
